@@ -1,0 +1,102 @@
+Corry  Computer        
+Home Address                                                                                                Campus Address 
+123, Ellis Street                                                                                         3456 University Ave 
+Boston, MA, 01234    Tindle Residence, Room 234 
+(123) 456 789                           Halifax, NS 
+                                                                                                                     (123) 555-8256 
+ 
+EDUCATION 
+ 
+Bachelor of Science in Information Engineering                                                               2006 
+Dalhousie University, Halifax, NS 
+• Senior Project: Voice-On-Demand System on Personal Computers for Telephone Networks 
+• Relevant Courses: Integrated Circuit, Microprocessor, Computer Architecture, System 
+Programming Language,  Electronic circuits, Physical Electronics, Electromagnetics, Automatic 
+Control,  Data Structure and Algorithms, Computer Language & Translator,  Data 
+Communication,  Linear Algebra, Digital System, Signal and System 
+ 
+TECHNICAL SKILLS 
+ 
+Electronic design automation 
+tools: 
+National Instrument LabVIEW Cadence SPW, Synopsys 
+COSSAP, Berkeley Ptolemy 
+ 
+Hardware design tools: Mentor ModelSim, Cadence NC-VHDL, Xilinx, Quick Logic, 
+Magic 
+ 
+Low-level languages: Verilog, VHDL, assembly for TI TMS320C54x, Intel x86, 
+Z80, V40 
+ 
+High-level languages: C, C++, Java, Pascal, Fortran, Basic, Matlab 
+ 
+Scripting languages: csh, sh, tcl/tk, itcl 
+ 
+ 
+RELEVANT EXPERIENCE 
+ 
+Summer Co-op 
+Intel Corporation, Hillsboro, Oregon, US                                                              07/05-12/05 
+  
+• Developed radio frequency interference mitigation algorithms for narrowband interference 
+rejection 
+• Assessed and prototyped algorithms to FPGA implementation for MIMO-OFDM Intel 
+platforms 
+• Demonstrated performance improvement with noise weighting algorithm resulting in one 
+patent submitted and one journal paper under review 
+• Awarded $10,000 scholarship in recognition of strong performance during co-op placement 
+   
+ 
+ 
+In this sample resume, education is listed towards the top because it is recent and very relevant to the career objective.  
+Valuable computer skills are highlighted in a separate section.  CO-OP, INTERNSHIP and ACADEMIC PROJECTS are 
+ALL considered experience. Notice how he includes experience in other countries as well.  
+C o r r y  C o m p u t e r                                                  p g .  2  
+ 
+Summer Intern 
+Samsung Advanced Institute of Technology, Gyeonggi-do, Korea,                          06/04-07/04 
+  
+• Analyzed and verified MIMO-OFDM algorithm with Matlab Simulink 
+• Simulated finite wordlength effect of core blocks in the baseband receiver 
+• Optimized wordlength of successive interference cancellation 
+• Developed 'Multi-Carrier Mode Modem for IMT-2000 User Equipment and ASIC,' in the 
+digital communication circuit team in cooperation with Samsung in Korea 
+• Designed and simulated 3X-CDMA multi-carrier digital receiver 
+• Coded up digital ASIC functions such as digital phase lock loop (PLL), down converter and 
+multi-carrier processor using VHDL 
+• Optimized data wordlength in digital ASIC functions 
+ 
+ 
+RELEVANT ACADEMIC PROJECTS 
+  
+Project: Data Wordlength Reduction for Low-Power DSP Software                           Spring 2004 
+Class: Embedded Software Systems  
+ 
+• Analyzed number of transition in the digital signal processing blocks for portable devices and 
+reduced wordlength for low power consumption at the software level 
+• Led a team of four students; delegated work loads, listened to concerns and ideas and 
+offered suggestions  
+  
+Project: Optimum Wordlengths for Multiplier and Adder                                             Fall 2003 
+Class: High Speed Arithmetic 
+• Analyzed number of gates for the multiplier and adder and found optimum wordlength to 
+minimize the number of gate satisfying given performance 
+• Project resulted in an 95% mark 
+ 
+Project: Performance Evaluation of Fixed Broadband Wireless Access                Spring 2003 
+Class:  Wireless Communications class 
+• Analyzed and simulated Orthogonal Frequency Division Multiplexing (OFDM) broadband 
+wireless access system using LabVIEW7 
+• Simulated broadband wireless channel using the Stanford University Interim (SUI) channel 
+model 
+ 
+Project: Minimum-ISI Time Domain Equalization for Fixed Wireless Access                    Fall 2005 
+Class:  Advanced Digital Signal Processing 
+ Analyzed and simulated time domain equalizations for OFDM broadband wireless access 
+system using MATLAB 
+ 
+ 
+ 
+ 
+ 
+ 

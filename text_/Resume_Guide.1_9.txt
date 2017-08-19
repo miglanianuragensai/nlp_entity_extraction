@@ -1,0 +1,34 @@
+ 21 
+ 
+ 
+Sample Resume #9: Computer Science 
+Web D. Veloper 
+Box A Vassar College        Cell: 845-451-XXXX 
+Poughkeepsie, NY 12604        weveloper@vassar.edu 
+EDUCATION 
+Vassar College, Poughkeepsie, NY  
+Bachelor of Arts in Computer Science; Correlate in Japanese, Expected May 20xx 
+GPA: Overall (3.40), Major (3.50) 
+EXPERIENCE 
+Computer Science Lab Coach, Vassar College, Poughkeepsie, NY, Fall 20xx – Spring 20xx 
+• Assisted students in laboratory sessions for an introductory Computer Science course 
+• Held office hours for students who required help with their assignments 
+Web Developer, Clever Consultants, Hartford, CT, Summer 20xx 
+• Designed, tested and implemented a dynamic web site www.clevcon.com 
+• Collaborated with technical writers to write a users manual for the corporation 
+Web Development Team, Creative Consulting, Hartford, CT, Summer 20xx 
+• Redesigned Access Membership Database format 
+• Developed standard queries for use of College Club Board Members 
+• Created users and developers manual 
+Student Network Administrator, Vassar College, Poughkeepsie, NY, Fall 200x – Spring 20xx 
+• Responsible for making recommendations for system improvements 
+• Finished developer’s documentation to achieve the desired system 
+COMPUTER SKILLS 
+• Proficient in all major operating systems, with a focus on Windows & UNIX 
+• Application Development with C/C++, Java; Website Development with PHP & SQL,                     
+Ruby on Rails, Python 
+• Database Systems: Oracle, MySQL and Access writing SQL queries & table design 
+• Statistical analysis using Microsoft products, Minitab, Matlab and customized solutions 
+HONORS AND ACTIVITIES 
+Awarded “Promising Programmer” Scholarship by Anytown Chamber of Commerce, 20xx 
+Member, Vassar College Soccer Team, Vassar College, 20xx-20xx 

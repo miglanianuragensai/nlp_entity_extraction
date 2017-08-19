@@ -1,0 +1,91 @@
+RESUME EXAMPLE: 
+ 
+GOLDY GOPHER 
+1234 Gopher Way, Minneapolis, MN 55414 
+612-555-5555 Goldy001@umn.edu 
+___________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________ 
+SUMMARY OF QUALIFICATIONS 
+   Pursuing a Master of Science in Mechanical Engineering 
+   Obtained industry experience through internship at Boeing and collaborated on a project with BASF 
+   Proficient in aerosol/nanoparticle synthesis, sampling, measurements and instrumentation 
+   Experience in air filtration, cleanroom technology, engine emission, and flow measurement/CFD 
+   Knowledgeable about thermal-fluid problems, aerosol physics, and mechanical design 
+ 
+EDUCATION 
+Master of Science in Mechanical Engineering     Expected Graduation May 2015 
+University of Minnesota-Twin Cities, Minneapolis, MN 
+College of Science and Engineering 
+Department of Mechanical Engineering 
+Cumulative GPA: 3.87 
+Bachelor of Engineering in Mechanical Engineering       May 2013 
+University of Wisconsin-Madison, Madison, WI 
+College of Engineering 
+Cumulative GPA: 3.76 
+ 
+RELATED INDUSTRY EXPERIENCE 
+Intern                     Summer 2014 
+Boom Inc., Seattle, WA   
+   Conducted systematic measurement for flow fields in a smoke test chamber at different heating and ventilation 
+  conditions, using Particle Image Velocimetry 
+   Helped validate CFD simulation results for smoke generation and transport in commercial airplane cabins 
+   Streamlined a key product characterization procedure, improving reproducibility and turn-around time for                 
+  manufacturing 
+   Designed and implemented comparative studies of various standard operating procedures in order to detect 
+  areas of improvements 
+   Collaborated with a multi-disciplinary team of software engineers, electrical engineers, and aerospace engineers 
+   Interacted with customers, partners, subcontractors and suppliers  
+   Presented findings and recommendations of project areas that could be developed to the internship coordinator 
+  and colleagues 
+ 
+SKILLS  
+Particle Generation: Nebulizer, Tube Furnace, Fluidized Bed, Diffusion Burner, Electrospray 
+Laboratory Instruments: Electron Microscopy (TEM, SEM, EDX), Differential Mobility Analyzer, Condensation    
+Particle Counter, Nanoparticle Surface Area Monitor, Nanometer Aerosol Sampler, Aerodynamic Particle Sizer,  
+Optical Particle Counter, Liquid Particle Counters 
+Programs: LabVIEW, Matlab, ANSYS, Fluent, AutoCAD, Pro/ENGINEER, SolidWorks, ImageJ, Macromedia 
+Computer Languages: C/C++, Fortran, HTML, JavaScript  
+Page 6 
+Gopher, p. 2 
+PROJECT EXPERIENCE 
+Developing Pulsed Aerosol Loading System, Center for Filtration Research (CFR)                              Spring Semester 2014 
+   Designed and built the control hardware and program of an experimental system for pulsed aerosol loading              
+     tests on filter media 
+ 
+Upgrading Control Software of UNPA, BASF Company                          Fall Semester 2013 
+   Improved the LabVIEW control software of Universal Nanoparticle Analyzer (UNPA); added new functions, such  
+     as particle diffusion loss correction; enhanced program user interface and debugged code errors 
+ 
+RESEARCH EXPERIENCE 
+Graduate Research Assistant                                                                               September 2013–present 
+Particle Technology Lab, College of Science and Engineering, University of Minnesota-Twin Cities, Minneapolis, MN 
+   Collaborate with area companies through the Center for Filtration Research (CFR) to study mass loading and   
+     pressure drop on Nanofiber filters 
+   Perform experimental and theoretical studies on the filtration of fractal aggregates 
+   Measure penetration of silver aggregates across model screens at various sintering temperatures 
+   Develop an analytical model for predicting effects of particle structure on filter efficiency 
+   Continue NSF funded research on real-time structure and mass measurements for agglomerated nanoparticles 
+   Evaluate in situ the particulate mass concentration of diesel engine emissions using a variety of instrumentation 
+     and methods 
+   Apply the Universal Nanoparticle Analyzer (UNPA) to investigate effects of sintering on morphology of metallic  
+     nanoparticle agglomerates formed by spark discharge 
+   Develop new modules for and maintained a web-based software on filter performance evaluation, dust cake     
+     loading and filter pleating design 
+   Conduct numerical study on diffusion-limited aggregation of nanoparticles in laminar shear to find the relation 
+     between velocity gradient and aggregate fractal dimension 
+ 
+SELECTED PUBLICATIONS & PRESENTATIONS 
+Journals 
+  G., Gopher, L. Yang, A.B. Duggard, H. Aleckson (2012). Measurement of Metal Nanoparticle Agglomerates        
+    Generated by Spark Discharge using the Universal Nanoparticle Analyzer (UNPA). Aerosol Sci. & Technol.,      
+    Accepted 
+Conferences 
+   Presentation, Effect of Nanofiber Layer on Dust Cake Formation and Structure. XXth AAAR Annual Conference,   
+     Minneapolis, MN, Oct 26-30, 2013 
+   Presentation, Online Measurements of Structure and Mass Concentration for Airborne Nanoparticle              
+     Agglomerates. AIChE 2012 Annual Meeting, Minneapolis, MN, Dec 10-14, 2013 
+ 
+PROFESSIONAL AFFILIATIONS 
+Member of American Institute of Chemical Engineers          2013–present 
+Member of American Association for Aerosol Research 2011–present 
+Member of American Filtration & Separations Society 2011–present 
+Page 7 

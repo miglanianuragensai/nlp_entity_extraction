@@ -1,0 +1,87 @@
+MCA Fresher Resume
+ Contributed by Administrator
+Friday, 02 November 2007
+Last Updated Friday, 30 July 2010
+Menaka Shahi
+B-312,Vallabh  Vihar,
+Sector-46,
+Gurgaon-122003
+Haryana,India
+Email: menaka254@gmail.com
+Phone: 9847241138
+Objective
+Seeking a position of Programmer/Developer in the field of IT where fresh talent will add value to operations and utilize
+my skills and abilities. Technical Summary
+Areas of expertise:     Oracle 9i, SQL Server,.NET(ASP.NET, C#)
+Sound Knowledge of:    C, C++, Java
+ - Undertaken project dealing with data processing & Application development. Developed a project for Punjab National
+Bank IIT, as part of M.C.A Course on Oracle IDS using Oracle 9i.
+ - Worked on developing a web-site for Marc Solution, using ASP.net with C# language and SQL Server.
+Academic QualificationS.NoDegree School/College/University Year of Passing Percentage/Division  1 M.C.A U.P.Technical
+University, Lucknow 2007 71% 2 B.C.A B.R.Ambedkar University, Agra 2004 77% 3 12th Girls&rsquo; High School,
+Allahabad 2001 60% 4 10th Girls&rsquo; High School, Allahabad 1999 68% Skills Profile
+1    Programming Languages: .NET (ASP.NET, C#), C, C++, Java
+2    Web Development: HTML, JavaScript, VBScript, ASP.net and ASP.
+3    Operating Systems: Windows (98, 2000, NT, XP), UNIX.
+4    Graphic Packages: Macromedia Dreamweaver.
+5    Databases: Oracle - 7.3, 8i& 9i, Microsoft SQL Server 2000, MS Access.
+6    Backup & Restore Application: IBM Tivoli Storage Manager Express.Projects:
+The details of the various projects in chronological order: 
+1.    Project Title        : Online job search
+       Organization       : Marc Solution
+       Duration       : 6 months
+       Tools used       : ASP.NET with C#, SQL Server2000 and Dreamweaver for designing.
+Project Description:
+This project involved building up a Job Portal for Marc Solutions which catered to both applicants and recruiters. Involved
+in developing a Web based Application which would enable Job seekers get automated mail information about available
+Job openings with Recruiters based on their skill set.
+Responsibility:  I worked on designing of database using SQL server and also involved in GUI development.
+2.    Project Title        : Out-Station Claim Management
+Organization       : Punjab National Bank Institute of Information Technology
+Duration       : 6 months
+Tools used       : Oracle 9i, Oracle IDS
+Project Description:
+An application developed with Punjab National Bank IIT for receiving the claim details of employee and gives their total
+claim. Generate monthly reports for the management.
+Responsibility: I was involved in Database and dataflow designing and Application Development.
+3.    Project Title        : Mobile Phones Services tracking System 
+Organization       : Reliance Infocomm, Lucknow
+Career Drive India
+http://careerdrive.co.in Powered by Joomla! Generated: 4 January, 2011, 08:09
+Duration       : 2 months
+Tools used       : Visual Basic 6.0, MSAcces
+    
+Project Description:
+An application developed for multitech services.
+Responsibility: I was involved in Structural Analysis and also worked as GUI Developer, Application Developer and
+Database Designer.
+4.    Project Title        : Inventory Management of Prepaid Mobile
+Duration       : 4 months
+Tools used       : Visual Basic 6.0, MSAcces
+Project Description:
+A scalable employment portal with ease of use and many flexible operations. 
+The Team consisted of 6 members and the project was developed as part of MCA curriculum.
+Responsibility: My responsibilities included working as Designing, GUI Developer and Application Developer. 
+5.    Project Title        : B.C.A Project - HR Requisition Management
+Organization       : Reliance Infocomm, Lucknow
+Duration       : 6 months
+Tools used       : Visual Basic 6.0 , MSAcces
+Project Description:
+A data processing application to receive the request of employee and to manage them.
+VB 6.0 was used as a front-end and Microsoft Access as database.
+Responsibility: My responsibilities included working as GUI Developer and Application Developer.Extra Curricular
+Activities:
+ - Seminars delivered on DNA Computing, Data Warehousing in IT Scenario and Communication skills.
+ - Participated in several State level Basketball matches.
+ - Held the position of Vice Captain in my school/college.
+ - Participated in college and school level debate and essay competition and received applauds.
+ - Captain of school basketball team.
+ - Event organizer in all school and college annual day functions and other technical events.
+Personal Summary:
+Date of Birth: 26/04/1983    Languages Known: Hindi, and EnglishReferences:
+1.    Mr. Praneeth Meduko, Associate Technology L1, Sapient Bangalore.                                                                  (Employee No: 002222)(Email:
+pmedukon@sapient.com).
+2.    Mr. Abhinav Shahini, ERP-SAP Consultant, Phase V,TCS Gurgaon
+ (Email:a.shahini@tcs.com)                                                                   (Menaka Shahi)
+Career Drive India
+http://careerdrive.co.in Powered by Joomla! Generated: 4 January, 2011, 08:09

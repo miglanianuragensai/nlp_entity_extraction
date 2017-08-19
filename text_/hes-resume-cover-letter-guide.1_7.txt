@@ -1,0 +1,72 @@
+Sarah Lopes Jones 
+23 South St. • Concord, MA 01742 • 978-333-9898 • sljones@post.harvard.edu
+Summary 
+• Accomplished Certified Project Management Professional with extensive experience managing
+project teams in all phases of the Software Development Life Cycle, as well as in infrastructure 
+implementations. 
+• Proven track record of initiating and delivering successful projects to improve systems and
+performance in large complex development and production environments. 
+Experience
+IBM, Cambridge, MA, 2004 - 2014
+Senior Technical Services Professional, 2006 - 2014 
+IBM Software Group (SWG) HQ division, which manages services to 7 brands/divisions, including:  
+Lotus, Rational, Tivoli, Cognos, and WebSphere, with a total client base of 35,000. 
+• Simultaneously led 3 cross-matrix teams of 5-15 members each, in projects to research, develop,
+and deliver yearly software development capital forecast plans. Total budget for all 7 divisions
+$100M.
+• Saved an estimated $2M yearly by increasing productivity of 600 employees.  Organized the
+development and implementation of a worldwide database application, including requirements
+gathering, development, UA testing, rollout, and training. Directed 4 major version upgrades.
+Considered “best in breed” application by IBM managers.
+• Developed and managed a $30M yearly IT spending budget split between 35 groups/divisions
+located in 10 different European countries.
+• Saved $8M/yearly by initiating and managing a project to transition all US datacenters to
+standardized servers. Prepared and maintained 25 cutting-edge configurations available by a
+single part number and delivered fully assembled.
+• Managed relationships with Sun Microsystems and Hewlett Packard, to provide ongoing discounts
+on a variety of servers needed for SWG development.
+• Insured compliance for Sarbanes Oxley audits by establishing and maintaining an out-of-cycle
+capital approval process. Authorized over $50M in requests yearly.
+• Created the first standardized high-end ThinkPad to meet the needs of the Software Group
+developer community. Within 6 months this standard was adopted by all of IBM.
+• Saved an estimate of $2M/yearly by reducing capital expenditure through cross-lab sharing and
+reuse. Member of The Asset Reutilization Council, and founder of The Asset Sharing Database.
+Advanced Systems Management Integration Professional, 2004 - 2006
+• Managed deployment projects specializing in security and systems management software
+throughout the Cambridge data center (200+ servers).
+• Specified, ordered, loaded, and installed Windows data center servers as lead MS Certified
+Systems Engineer on internal project teams.
+• Published white papers, processes, procedures, and work instructions for IBM on OS and software
+standards.
+Sample Resume
+Sarah Lopes Jones     page 2
+MJ Research (currently Bio-Rad Laboratories), Waltham, MA 
+Network Administrator and Help Desk Manager, 2001 - 2004
+• Managed infrastructure projects, including: setup of multi-site DSL; DHCP and NAT conversion;
+SMS rollout; firewall installation; email migration; web server launch; database design; license
+server implementation; sales database rollout; VPN integration across WAN; Intranet design and
+installation in DMZ.
+• Supervised helpdesk and staff.  Prioritized help desk issues. Handled problem escalation.
+• Directed selection, installation, administration, maintenance, upgrades, and backups for critical
+Windows servers on a cross-platform LAN/WAN with 200 nodes, and 50 remote users.
+• Specified, ordered, installed, and distributed Macintosh systems to new hires. Trained employees
+on usage, company computer policy, and procedure.
+• Held internal training classes in computer use, software applications, Internet, and project
+management.
+Technical Skills 
+Hardware: IBM System x, BladeCenter, Intellistation, ThinkPad, PowerBook, AMD, Dell, Cisco, 
+TotalStorage, NAS, tape backup.  
+Networking: switches/hubs, cabling, DSL/VPN, TCP/IP, remote access, DMZ/firewall.  
+Software: Windows Operating Systems, Mac OS X, VMware, security and virus protection, system 
+mgmt software, middleware, BrioQuery, ACT!, Filemaker Pro, Eudora Pro, Apple: iLife, iWork. 
+Microsoft: Office, FrontPage, Project, SMS, Outlook, Visio. Lotus: Notes, Symphony, Sametime, 
+SmartSuite, Adobe: Photoshop, Illustrator, PageMaker, Acrobat.
+Education
+Harvard University Extension School, Cambridge, MA 
+     Master of Liberal Arts, Management, May 2015 
+Emerson College, Boston MA
+Bachelor of Science in Marketing Communications: Advertising and Public Relations, May 2001 
+PMI Institute: PMP Certified
+IBM: Leadership Excellence Program: 148 class hours developing leadership skills
+Microsoft: Windows 2000 Certified Systems Engineer
+Sample Resume (page 2)
